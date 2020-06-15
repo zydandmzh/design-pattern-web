@@ -18,7 +18,7 @@
         <junit.version>4.12</junit.version>
         <guava.version>18.0</guava.version>
         <spring.version>4.2.5.RELEASE</spring.version>
-        <collections.version>3.2.1</collections.version>
+        <collections.version>3.2.2</collections.version>
         <commons-lang.version>2.6</commons-lang.version>
         <commons-lang3.version>3.6</commons-lang3.version>
     </properties>
